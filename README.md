@@ -1,0 +1,1 @@
+Manasthiti is a wearable AI system that tracks heart rate, skin temperature, breathing, and sweating for real-time stress detection. It offers personalized insights, mood tracking, journaling, and emergency alerts, ensuring secure, HIPAA-compliant data handling for proactive mental well-being.
